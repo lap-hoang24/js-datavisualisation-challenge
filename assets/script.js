@@ -127,7 +127,7 @@ var homicideData = {
 var homicideOptions = {
     chart: {
         width: 900,
-        height: 2000,
+        height: 1000,
         title: 'Homicides in Euroupe',
         format: '1,000'
     },
