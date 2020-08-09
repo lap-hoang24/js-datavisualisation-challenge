@@ -1,7 +1,7 @@
 # [BeCode]JavaScript Datavisualisation Challenge - Europe Crimes Statistics
 
 ## Objectives 
------
+
 The challenge was an opportunity to utilise and harness `HTML / CSS / JavaScript` knowledge and skills acquired thus far and to get to know and integrate useful and powerful **Third-party Libraries** such as `Chart.js` and `TOAST UI`. 
 
 Therefore, having completed the challenge, I have consolidated and acquired new following skillsets:
@@ -12,7 +12,7 @@ Therefore, having completed the challenge, I have consolidated and acquired new 
 - **Testing and Debugging** using the DevTool console.
 
 ## Evaluation
------
+
 The evaluation method chosen is a self-evaluation based on the following indicators:
 
 #### 1. handling of the DOM:
