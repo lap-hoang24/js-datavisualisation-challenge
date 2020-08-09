@@ -1,5 +1,7 @@
 # [BeCode]JavaScript Datavisualisation Challenge - Europe Crimes Statistics
 
+The resulted website can be accessed via this link: https://lap-hoang24.github.io/js-datavisualisation-challenge/
+
 ## Objectives 
 
 The challenge was an opportunity to utilise and harness `HTML / CSS / JavaScript` knowledge and skills acquired thus far and to get to know and integrate useful and powerful **Third-party Libraries** such as `Chart.js` and `TOAST UI`. 
